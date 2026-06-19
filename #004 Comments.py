@@ -10,7 +10,7 @@
 #-----------------------------------------------------
 print("Hello python")
 print("programming")
-# print("abdallah")       # Use Ctrl + / to comment or uncomment a line.
+# print("abdallah")        # Use Ctrl + / to comment or uncomment a line.
 
 '''
 THIS IS 
